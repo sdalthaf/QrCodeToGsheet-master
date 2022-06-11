@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR CODE SCANNER</string>
+    <string name="inscan">IN</string>
+    <string name="outscan">OUT</string>
+</resources>
