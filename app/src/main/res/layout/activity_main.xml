@@ -60,14 +60,7 @@
         android:id="@+id/clear_btn"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="230dp"
+        android:layout_marginTop="280dp"
         android:onClick="clear"/>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="NOTE: pls check all details before scan"
-        android:layout_marginTop="300dp"
-        android:id="@+id/note" />
-
 
 </RelativeLayout>
